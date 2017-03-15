@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+
+Hi! I'm testing out GitHub, finally. Lots of catching-up to do!
